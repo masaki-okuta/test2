@@ -28,6 +28,7 @@ p {
 }
 
 pre{
+  display: block;
   background-color: lightgrey;
   color:black;
   font-size: 15px;
@@ -91,6 +92,7 @@ div {
 
 .video{
   padding: 20px;
+  display: block;
 }
 
 .references {
@@ -100,6 +102,7 @@ div {
   border-radius: 8px;
   box-shadow: 0px 0px 5px;
   color: black;
+  display: block;
 }
 
 div {
@@ -114,4 +117,6 @@ footer {
 footer {
   display: block;
 }
+
+
 
